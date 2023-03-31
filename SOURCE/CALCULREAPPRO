@@ -2,11 +2,10 @@
        PROGRAM-ID. D6REAPRO.
 
       *=========================================================*
-      * PROGRAME CALCUL APPRO                                   *
-      * A PARTIR DES DONNES CUMULEES D6STOCK                    *
+      *                PROGRAME CALCUL APPRO                    *
+      *          A PARTIR DES DONNES CUMULEES D6STOCK           *
       * TRIE LES PROD A REAPROVISIONNER ET CEUX A QUANTITE SUFF *
-      * DANS DEUX FICHIERS DIFFERENTS                           *
-      * SQUELETTE DE PROGRAMME COBOL                            *
+      *              DANS DEUX FICHIERS DIFFERENTS              *
       *                                                         *
       *=========================================================*
 
