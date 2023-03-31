@@ -1,6 +1,15 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. D6STOCK.
 
+      *=========================================================*
+      *                     PROGRAME STOCK                      *
+      *                *
+      *  *
+      *                            *
+      *                                                         *
+      *=========================================================*
+
+
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
