@@ -2,19 +2,14 @@
        PROGRAM-ID. D6MAJAPP.
 
       *=========================================================*
-      * CE PROGRAMME:                                           *
-      * -CALCULE LA QUANTITE DE PRODUIT A REAPPROVISIONNER POUR *
-      * CHAQUE ID-PRODUIT PRESENT DANS LE FICHIER REPRO         *
+      *                  PROGRAMME MAJAPPRO                     *
+      * CALCULE LA QUANTITE DE PRODUIT A REAPPROVISIONNER POUR  *
+      *     CHAQUE ID-PRODUIT PRESENT DANS LE FICHIER REPRO     *
       *                                                         *
-      * -MET A JOUR LES TABLES APPRO ET PRODUITS AVEC LES       *
-      * NOUVELLES QUANTITES                                     *
+      *     MET A JOUR LES TABLES APPRO ET PRODUITS AVEC LES    *
+      *                  NOUVELLES QUANTITES                    *
       *=========================================================*
 
-      *=========================================================*
-      *                                                         *
-      * SQUELETTE DE PROGRAMME COBOL                            *
-      *                                                         *
-      *=========================================================*
 
        ENVIRONMENT DIVISION.
 
